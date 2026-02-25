@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1942441f",
+        "titulo": "proyecto integrador",
+        "descripcion": "Un proyecto integrador es una estrategia de aprendizaje que busca que los estudiantes apliquen los conocimientos de diversas materias para resolver un problema real o desarrollar",
+        "fecha": "25/11/2026",
+        "estado": "completada"
+    },
+    {
+        "id": "636d5fd0",
+        "titulo": "hacer una investigacion",
+        "descripcion": "la invstigacion es sobre las pasantias de los jovenes de la unet",
+        "fecha": "28/02/2026",
+        "estado": "pendiente"
+    }
+]
