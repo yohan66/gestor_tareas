@@ -81,7 +81,11 @@ def menu():
                 for t in pendientes:
                     print(f"[{t['id']}] {t['titulo']}")
                     
+<<<<<<< HEAD
                 id_tarea: str = input("\nIngresa el ID de la tarea a completar (o escribe 'salir' para cancelar): ")
+=======
+                id_tarea = input("\nIngresa el ID de la tarea a completar (o escribe 'salir' para cancelar): ")
+>>>>>>> 6a9881921747c87f3eb2e25b783a4300519e0dc4
                 
                 # Opcion para salir por si el usuario desea
                 
